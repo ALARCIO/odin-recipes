@@ -1,5 +1,3 @@
 # odin-recipes
 
-I find this really interesting
-
-Very nice
+i had a hard time doing this, but i am grateful that i finished it.
